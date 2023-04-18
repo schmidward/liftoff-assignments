@@ -9,7 +9,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 ### Features
-Include Features here
+
+- User login: Users will be able to create accounts and log in to the application. Each user will have a profile page
+
+- 
+
 ### Technologies
 Include Technologies here
 ### What I'll Have to Learn
