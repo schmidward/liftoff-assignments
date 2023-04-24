@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+Eric Schmid Github: https://github.com/schmidward 
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+Eric Schmid Linkedin: https://www.linkedin.com/in/ericdschmid/ 
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+Please see: !Resume_LC_Schmid_2023-04-24
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
