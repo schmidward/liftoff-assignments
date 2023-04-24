@@ -8,12 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Please see: 2023-04-24_Schmid Admin Wireframe.png
+
+This is a working document I produced in app.diagrams.net. I also plan to produce a security architecutre wireframe when I have more of a handle on Spring Security. 
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/HznQZLy9/discover-mo-trails
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/schmidward/sslearningwork
+
+I am learning Spring Security for this application and have a repo dedicated to that work before I begin to build the core 
+funcionality for this project. I learn best when I have the ability to look at a prior project I completed with the similar concept.
